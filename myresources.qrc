@@ -1,0 +1,11 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>images/yek.jpg</file>
+    <file>images/do.jpg</file>
+    <file>images/chahar.jpg</file>
+    <file>images/panj.jpg</file>
+    <file>images/sade.jpg</file>
+    <file>images/baadi.jpg</file>
+    <file>images/akhar.jpg</file>
+</qresource>
+</RCC>
